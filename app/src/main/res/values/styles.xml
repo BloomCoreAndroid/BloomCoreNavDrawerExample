@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.DesignDemo" parent="Base.Theme.DesignDemo">
+    </style>
+
+    <style name="Base.Theme.DesignDemo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryDark">#0D47A1</item>
+        <item name="colorAccent">#90CAF9</item>
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+</resources>
